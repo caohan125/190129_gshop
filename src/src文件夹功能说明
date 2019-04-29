@@ -1,0 +1,13 @@
+|src
+  |api 与后台模块交互文件
+  |common 通用资源文件夹,比如图片,fonts,stylus
+  |components 非路由文件夹
+  |filters 自定义过滤器模块文件夹
+  |mock 模拟数据接口文件夹
+  |store vues相关模块文件夹
+  App.vue 应用组件
+  main.js 入口JS
+
+
+
+npm install stylus stylus-loader --save-dev 安装stylus的解析工具
